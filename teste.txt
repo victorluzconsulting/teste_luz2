@@ -1,2 +1,13 @@
---era 1 passou pra 2
+--era 2 passou pra 3
 2
+4
+
+-Continuando com o teste
+
+cursor r then
+
+  select * from all_tables
+open r
+fetch s
+close r
+
