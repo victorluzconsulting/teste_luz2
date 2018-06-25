@@ -6,7 +6,7 @@
 
 cursor r then
 
-  select * from all_tables
+  select * from cll_f189_invoices_header
 open r
 fetch s
 close r
